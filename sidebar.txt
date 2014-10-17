@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[llu:home|Door43 (llu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-llu|d43-llu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-llu/archive/master.zip|d43-llu.zip]]
+
+**Recent Changes**
+{{changes>ns = llu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/llu|Ethnologue data]]
+
